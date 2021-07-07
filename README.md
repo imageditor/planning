@@ -33,3 +33,9 @@ _Technologies to be used:_
 [GoUp](#contents)
 
 # Detailed planning
+
+
+
+
+
+[GoUp](#contents)
