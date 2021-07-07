@@ -1,7 +1,7 @@
 # Contents
 - [Task](#task)
 - [AWS Diagram](#aws-diagram)
-- [] 
+- [Detailed planning](#detailed-planning) 
 
 # Task
 Design and implement an auto scalable microservice architecture and deploy it on aws.
@@ -31,3 +31,5 @@ _Technologies to be used:_
 ![image](https://user-images.githubusercontent.com/75684216/124797695-39d1c980-df5b-11eb-889c-27557b0c33e9.png)
 
 [GoUp](#contents)
+
+# Detailed planning
