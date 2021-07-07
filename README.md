@@ -26,4 +26,4 @@ _Technologies to be used:_
 - [ ] All Microservices should be dockerized
 
 # AWS Diagram
-https://drive.google.com/file/d/1spAkA1-qaxS6fuBvcRK4eC-txljOVH4o/view?usp=sharing
+![image](https://user-images.githubusercontent.com/75684216/124797695-39d1c980-df5b-11eb-889c-27557b0c33e9.png)
