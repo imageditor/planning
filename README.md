@@ -1,4 +1,5 @@
-(Task)[Task]
+[Task](/#Task)
+[AWS Diagram](/#Diagram)
 
 # Task
 
@@ -22,3 +23,5 @@ _Technologies to be used:_
 - [ ] the processingWorker which converts the images to grayscale, this should be in python
 - [ ] Databases: Choose what you think is the best for this usecase (MongoDB chosed)
 - [ ] All Microservices should be dockerized
+
+# AWS Diagram
