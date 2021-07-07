@@ -33,7 +33,7 @@ _Technologies to be used:_
 [GoUp](#contents)
 
 # Detailed planning
-
+- [ ] Create project Step-By-Step tutorial
 
 
 
