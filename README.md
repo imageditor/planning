@@ -1,5 +1,5 @@
-- [Task](/#task)
-- [AWS Diagram](/#aws-diagram)
+- [Task](#task)
+- [AWS Diagram](#aws-diagram)
 - [] 
 
 # Task
