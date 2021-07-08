@@ -8,7 +8,7 @@ Design and implement an auto scalable microservice architecture and deploy it on
 
 _Requirements:_
 - [x] User can create projects
- - [ ] _deploy on AWS_
+  - [ ] _deploy on AWS_
 - [ ] User can upload images into projects
 - [ ] User can view the uploaded images
 - [ ] User can select images to process them
