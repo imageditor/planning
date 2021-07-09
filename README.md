@@ -20,10 +20,10 @@ _Requirements:_
 _Technologies to be used:_
 - [ ] Kubernetes for Container Orchestration
 - [ ] API gateway for routing
-- [ ] Frontend: React
-- [ ] Backend: Node.js
+- [x] Frontend: React
+- [x] Backend: Node.js
 - [ ] the processingWorker which converts the images to grayscale, this should be in python
-- [ ] Databases: Choose what you think is the best for this usecase (MongoDB chosed)
+- [x] Databases: Choose what you think is the best for this usecase (MongoDB chosed)
 - [ ] All Microservices should be dockerized
 
 [GoUp](#contents)
@@ -35,7 +35,16 @@ _Technologies to be used:_
 
 # Detailed planning
 - [ ] Create project Step-By-Step tutorial
-
+- [x] [Project-manager-backend](https://github.com/imageditor/project-manager-backend)
+   - API port 8088
+   - CORS origin port 8089
+- [ ] [Project-manager-frontend](https://github.com/imageditor/project-manager-frontend)
+   - port 8089
+   - [x] project add/list/edit
+      - [ ] improve UI
+- [ ] [Image-manager](https://github.com/imageditor/image-manager)
+  - API port 8088
+  - CORS origin port 8089
 
 
 
