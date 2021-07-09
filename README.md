@@ -43,8 +43,8 @@ _Technologies to be used:_
    - [x] project add/list/edit
       - [ ] improve UI
 - [ ] [Image-manager](https://github.com/imageditor/image-manager)
-  - API port 8088
-  - CORS origin port 8089
+  - API port 8086
+  - CORS origin port 8087
 
 
 
