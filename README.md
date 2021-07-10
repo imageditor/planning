@@ -45,6 +45,9 @@ _Technologies to be used:_
 - [ ] [Image-manager](https://github.com/imageditor/image-manager)
   - API port 8086
   - CORS origin port 8087
+- [ ] upload and resize AWS Lambda
+- [ ] AWS GW
+- [ ] grayscale ASW Lambda
 
 
 
