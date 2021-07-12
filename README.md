@@ -1,7 +1,8 @@
 # Contents
 - [Task](#task)
 - [AWS Diagram](#aws-diagram)
-- [Detailed planning](#detailed-planning) 
+- [Detailed planning](#detailed-planning)
+- [Exchange rooles](#exchange-rooles)
 
 # Task
 Design and implement an auto scalable microservice architecture and deploy it on aws.
@@ -52,3 +53,65 @@ _Technologies to be used:_
 
 
 [GoUp](#contents)
+
+# Exchange rooles
+
+## Запуск процессинга
+
+## `POST IM_SERVICE_HOST:IM_SERVICE_PORT/api/processing/`
+
+### Upload
+
+#### Request
+
+**FormData**
+```
+{
+    projectId: string,
+    processingType: 'upload',
+    image: File (Buffer?)
+}
+```
+
+#### Response
+
+**JSON**
+```
+{
+    newId: uuidv4,
+    status: 'recieved' | 'error',
+    payload: {
+        message: string,
+        data: object
+    }
+}
+```
+
+### Grayscale
+
+#### Request
+
+**FormData**
+```
+{
+    id: uuidv4,
+    projectId: string,
+    processingType: 'grayscale'
+}
+```
+
+#### Response
+
+**JSON**
+```
+{
+    newId: uuidv4,
+    status: 'recieved' | 'error',
+    payload: {
+        message: string,
+        data: object
+    }
+}
+```
+
+
