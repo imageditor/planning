@@ -51,7 +51,6 @@ _Technologies to be used:_
 - [ ] grayscale ASW Lambda
 
 
-
 [GoUp](#contents)
 
 # Exchange rooles
@@ -62,9 +61,7 @@ _Technologies to be used:_
 
 ### Upload
 
-#### Request
-
-**FormData**
+#### Request (**FormData**)
 ```
 {
     projectId: string,
@@ -73,9 +70,7 @@ _Technologies to be used:_
 }
 ```
 
-#### Response
-
-**JSON**
+#### Response (**JSON**)
 ```
 {
     newId: uuidv4,
@@ -89,9 +84,7 @@ _Technologies to be used:_
 
 ### Grayscale
 
-#### Request
-
-**FormData**
+#### Request (**FormData**)
 ```
 {
     id: uuidv4,
@@ -100,9 +93,7 @@ _Technologies to be used:_
 }
 ```
 
-#### Response
-
-**JSON**
+#### Response (**JSON**)
 ```
 {
     newId: uuidv4,
@@ -113,5 +104,7 @@ _Technologies to be used:_
     }
 }
 ```
+
+[GoUp](#contents)
 
 
