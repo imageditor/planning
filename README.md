@@ -20,7 +20,7 @@ _Requirements:_
 
 _Technologies to be used:_
 - [ ] ~Kubernetes for Container Orchestration~
-- [x] ECS
+   - [x] ECS
 - [x] API gateway for routing
 - [x] Frontend: React
 - [x] Backend: Node.js
